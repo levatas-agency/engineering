@@ -5,5 +5,6 @@ At Levatas, our Engineering team is a fundamental part of the success of our com
 * [Our values](values.md)
 * [Roles and responsibilities](roles-responsibilities.md)
 * [Advancement opportunities](advancement-opportunities.md)
+* [Engineering workflow](engineering-workflow.md)
 
 We use these principles and guides to ensure our performance upholds our standards of excellence. 
