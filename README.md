@@ -2,4 +2,6 @@
 
 At Levatas, our Engineering team 
 
-* [Values](values.md)
+* [Our values](values.md)
+* [Roles and responsibilities](roles-responsibilities.md)
+* [Advancement opportunities](advancement-opportunities.md)
