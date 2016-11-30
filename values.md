@@ -16,7 +16,7 @@ At Levatas, a great Software Engineer…
 
 7. Upholds a clear standard of quality. Great engineers take a lot of pride on the quality of their work and aren't willing to compromise it under any circumstance. They know how to manage competing priorities to deliver the best possible solution within the imposed constraints.
 
-8. Has a “get stuff done” mentality. Great engineers are eager to build things, and they don’t stop until they finish them. They understand the importance of results over the process to achieve them, and while there's value on the latter, they value more the former.
+8. Has a "get stuff done" mentality. Great engineers are eager to build things, and they don’t stop until they finish them. They understand the importance of results over the process to achieve them, and while there's value on the latter, they value more the former.
 
 9. Criticizes ideas, not people. Great engineers criticize ideas on merit alone and never the people who hold them. They believe that ideas should stand or fall on their own merits.
 
