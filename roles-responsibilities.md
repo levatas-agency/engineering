@@ -8,7 +8,8 @@ The Engineering team at Levatas is organized across five different positions:
 
 The Software Engineer Intern role provides an opportunity for individuals to gain valuable industry experience while primarily focusing on learning while supporting Levatas’ engineering team. As a Software Engineer Intern, you will be responsible for working on client deliverables and projects while spending a significant amount of your time learning and honing your skills.
 
-_Responsibilities_
+__Responsibilities__
 * Continuously learn and improve skills.
 * Collaborate with other team members to design and implement features.
 * Work independently when required.
+hj
