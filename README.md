@@ -7,4 +7,6 @@ At Levatas, our Engineering team is a fundamental part of the success of our com
 * [Advancement opportunities](advancement-opportunities.md)
 * [Engineering workflow](engineering-workflow.md)
 
-We use these principles and guides to ensure our performance upholds our standards of excellence. 
+We use these principles and guides to ensure our performance upholds our standards of excellence, and for those that go above and beyond, we keep their names in a special place:
+
+* [Acknowledgements](acknowledgements.md)
