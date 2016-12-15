@@ -11,4 +11,4 @@ We use these principles and guides to ensure our performance upholds our standar
 
 * [Acknowledgements](acknowledgements.md)
 
-Also, [here is a list of books](books.md) we want to make sure all our team has access to (and read, of course).
+Also, [here is a list of resources](resources.md) we want to make sure all our team has access to (and read and watch, of course).
