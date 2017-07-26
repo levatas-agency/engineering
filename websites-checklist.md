@@ -1,0 +1,45 @@
+# Website Development and Deployment Checklist
+
+Here is the list of activities that apply to the development and deployment of websites and serve as a checklist for our team and a meassure of success for our clients. 
+
+## Development and pre-launch activities
+
+1. Website is responsive and the layouts responds to changes in screen size to accomodate to the respective breakpoints.
+1. Files such as JavaScript, HTML, CSS, and SVG are minified to reduce file size.
+1. Image files are properly optimized and compressed.
+1. A server caching strategy covering the creation and cache of dynamic pages is in place.
+1. A browser caching strategy for JavaScript, HTML, CSS, and image files is in place.
+1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behaviour taken on the site.
+1. Content is proof read for spelling and grammar, punctuation, consistency of writing style, and capitalization.
+1. All the descriptive images on the site use the "alt" attribute to improve ADA compliance.
+1. Custom 404 and 500 error pages are created and setup to work at every level of the site structure.
+1. Website performs appropriately on the latest version of Internet Explorer, Chrome, Safari, and Firefox.
+1. Website performs appropriately on the latest version of Safari for iOS, and Chrome for Android devices.
+
+## Deployment and post-launch activities
+
+1. The site has been load tested taking into account the expected traffic.
+1. Regular backups for the website and database are scheduled.
+1. Monitoring alerts are in place to report any downtime with the site.
+1. Generation of logs is active and properly coordinated with the server's disk capacity.
+1. A Content Delivery Network (CDN) is used to deliver all the static resources of the site.
+
+## Security and risk mitigation
+
+1. Every form in the site is resilient to special characters.
+1. An SSL certificate is in place covering all the variations of the URL.
+1. All HTTP traffic is automatically redirected to HTTPS.
+1. There's no direct access through the browser to any of the private directories of the website.
+1. There's no direct access through the browser to any configuration file.
+1. There's no direct access to the database from outside the web servers.
+1. All the necessary passwords meet the maximum complexity requirements.
+1. A security and penetration test was carried out.
+
+## Tools
+
+1. [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Website performance
+1. [Web Page Test](https://www.webpagetest.org/) - Website performance
+1. [Web Site Optimization](http://www.webpageanalyzer.com/) - Website performance
+1. [WordPress Security Scan](https://hackertarget.com/wordpress-security-scan/) - WordPress security
+1. [Automated WordPress Scans](https://wpscans.com/scan) - WordPress security
+1. [W3C Link Checker](http://validator.w3.org/checklink) - Check for broken links 
