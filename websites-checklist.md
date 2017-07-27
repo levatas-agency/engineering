@@ -13,6 +13,7 @@ Here is the list of activities that apply to the development and deployment of w
 1. Content is proof read for spelling and grammar, punctuation, consistency of writing style, and capitalization.
 1. All the descriptive images on the site use the "alt" attribute to improve ADA compliance.
 1. Custom 404 and 500 error pages are created and setup to work at every level of the site structure.
+1. Forms submissions are stored in the database and there's an option for clients to export them from the site.
 1. Website performs appropriately on the latest version of Internet Explorer, Chrome, Safari, and Firefox.
 1. Website performs appropriately on the latest version of Safari for iOS, and Chrome for Android devices.
 
@@ -23,6 +24,7 @@ Here is the list of activities that apply to the development and deployment of w
 1. Monitoring alerts are in place to report any downtime with the site.
 1. Generation of logs is active and properly coordinated with the server's disk capacity.
 1. A Content Delivery Network (CDN) is used to deliver all the static resources of the site.
+1. Updates to the site are accessible to clients without having them clearing their cache.
 
 ## Security and risk mitigation
 
