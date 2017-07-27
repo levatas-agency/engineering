@@ -19,8 +19,10 @@ Here is the list of activities that apply to the development and deployment of w
 
 ## Deployment and post-launch activities
 
+1. Updates are first deployed to a staging environment before making them available on production.
 1. The site has been load tested taking into account the expected traffic.
 1. Regular backups for the website and database are scheduled.
+1. A plan is in place to roll back any updates to the previous version.
 1. Monitoring alerts are in place to report any downtime with the site.
 1. Generation of logs is active and properly coordinated with the server's disk capacity.
 1. A Content Delivery Network (CDN) is used to deliver all the static resources of the site.
