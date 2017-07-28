@@ -14,7 +14,7 @@ Here is the list of activities that apply to the development and deployment of w
 1. All the descriptive images on the site use the "alt" attribute to improve ADA compliance.
 1. Custom 404 and 500 error pages are created and setup to work at every level of the site structure.
 1. Forms submissions are stored in the database and there's an option for clients to export them from the site.
-1. Website performs appropriately on the latest version of Internet Explorer, Chrome, Safari, and Firefox.
+1. Website performs appropriately on Internet Explorer 11, and the latest version of Edge, Chrome, Safari, and Firefox.
 1. Website performs appropriately on the latest version of Safari for iOS, and Chrome for Android devices.
 
 ## Deployment and post-launch activities
