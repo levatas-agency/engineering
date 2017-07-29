@@ -9,7 +9,7 @@ Here is the list of activities that apply to the development and deployment of w
 1. Image files are properly optimized. See [
 Optimize Images](https://developers.google.com/speed/docs/insights/OptimizeImages).
 1. Compression is enabled for all HTTP requests. See [Enable Compression](https://developers.google.com/speed/docs/insights/EnableCompression).
-1. A server caching strategy covering the creation and cache of dynamic pages is in place. 
+1. A server caching strategy covering the creation and cache of dynamic pages is in place. See [Improve Server Response Time](https://developers.google.com/speed/docs/insights/Server).
 1. A browser caching strategy is in place. See [Leverage Browser Caching](https://developers.google.com/speed/docs/insights/LeverageBrowserCaching).
 1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behaviour taken on the site.
 1. Content is proof read for spelling and grammar, punctuation, consistency of writing style, and capitalization.
