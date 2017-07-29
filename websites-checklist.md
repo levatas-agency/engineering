@@ -4,14 +4,13 @@ Here is the list of activities that apply to the development and deployment of w
 
 ## Development and pre-launch activities
 
-1. Website is responsive and the layouts responds to changes in screen size to accomodate to the respective breakpoints.
-1. Files such as JavaScript, HTML, CSS, and SVG are minified to reduce file size.
+1. Website is responsive and the layouts responds to changes in screen size to accomodate to the respective breakpoints. See [Configure the Viewport](https://developers.google.com/speed/docs/insights/ConfigureViewport) and [Size Content to Viewport](https://developers.google.com/speed/docs/insights/SizeContentToViewport).
+1. Files such as JavaScript, HTML, and CSS are minified to reduce file size. See [Minify Resources](https://developers.google.com/speed/docs/insights/MinifyResources).
 1. Image files are properly optimized. See [
 Optimize Images](https://developers.google.com/speed/docs/insights/OptimizeImages).
 1. Compression is enabled for all HTTP requests. See [Enable Compression](https://developers.google.com/speed/docs/insights/EnableCompression).
 1. A server caching strategy covering the creation and cache of dynamic pages is in place. 
 1. A browser caching strategy is in place. See [Leverage Browser Caching](https://developers.google.com/speed/docs/insights/LeverageBrowserCaching).
-1. HTML, CSS, and JavaScript resources are minified. See [Minify Resources](https://developers.google.com/speed/docs/insights/MinifyResources).
 1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behaviour taken on the site.
 1. Content is proof read for spelling and grammar, punctuation, consistency of writing style, and capitalization.
 1. All the descriptive images on the site use the "alt" attribute to improve ADA compliance.
