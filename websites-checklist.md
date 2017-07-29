@@ -4,14 +4,14 @@ Here is the list of activities that apply to the development and deployment of w
 
 ## Development and pre-launch activities
 
-1. Website is responsive and the layouts responds to changes in screen size to accomodate to the respective breakpoints. See [Configure the Viewport](https://developers.google.com/speed/docs/insights/ConfigureViewport) and [Size Content to Viewport](https://developers.google.com/speed/docs/insights/SizeContentToViewport).
+1. Website is responsive and the layouts respond to changes in screen size to accommodate to the respective breakpoints. See [Configure the Viewport](https://developers.google.com/speed/docs/insights/ConfigureViewport) and [Size Content to Viewport](https://developers.google.com/speed/docs/insights/SizeContentToViewport).
 1. Files such as JavaScript, HTML, and CSS are minified to reduce file size. See [Minify Resources](https://developers.google.com/speed/docs/insights/MinifyResources).
 1. Image files are properly optimized. See [
 Optimize Images](https://developers.google.com/speed/docs/insights/OptimizeImages).
 1. Compression is enabled for all HTTP requests. See [Enable Compression](https://developers.google.com/speed/docs/insights/EnableCompression).
 1. A server caching strategy covering the creation and cache of dynamic pages is in place. See [Improve Server Response Time](https://developers.google.com/speed/docs/insights/Server).
 1. A browser caching strategy is in place. See [Leverage Browser Caching](https://developers.google.com/speed/docs/insights/LeverageBrowserCaching).
-1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behaviour taken on the site.
+1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behavior taken on the site.
 1. Content is proof read for spelling and grammar, punctuation, consistency of writing style, and capitalization.
 1. All the descriptive images on the site use the "alt" attribute to improve ADA compliance.
 1. Custom 404 and 500 error pages are created and setup to work at every level of the site structure.
@@ -23,7 +23,7 @@ Optimize Images](https://developers.google.com/speed/docs/insights/OptimizeImage
 
 1. Updates are first deployed to a staging environment before making them available on production.
 1. The site has been load tested taking into account the expected traffic.
-1. Regular backups for the website and database are scheduled.
+1. Regular backups of the website and database are scheduled.
 1. A plan is in place to roll back any updates to the previous version.
 1. Monitoring alerts are in place to report any downtime with the site.
 1. Generation of logs is active and properly coordinated with the server's disk capacity.
