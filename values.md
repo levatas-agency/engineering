@@ -1,4 +1,4 @@
-#Our values
+# Our values
 
 At Levatas, a great Software Engineer…
 
@@ -21,8 +21,3 @@ At Levatas, a great Software Engineer…
 9. __Criticizes ideas, not people.__ Great engineers criticize ideas on merit alone and never the people who hold them. They believe that ideas should stand or fall on their own merits.
 
 10. __Constantly looks for ways to make Levatas a better workplace.__ Great engineers love their workplace and work together to make it a little bit better for everyone to enjoy. They understand that everything around them exists because somebody made it happen, so they respect it and improve upon it.
-
-
-
-
-#
