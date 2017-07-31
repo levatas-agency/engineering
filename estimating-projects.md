@@ -30,6 +30,7 @@ Before the end of the session, make sure you run through these questions and adj
 * How much time do you need to transition the project to the client?
 * Do you need to do any user training before handing over the project?
 * Is there any data migration that you should include in your estimate?
+* Are there any tools you will have to include as part of your costs?
 * Is there any warranty period that should be planned and estimated?
 
 ## What to do if estimates are too high?
