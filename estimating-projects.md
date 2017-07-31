@@ -22,6 +22,9 @@ adjust the scope of the product.
 * Identify the risks and discuss a plan to mitigate them.
 * Identify hidden features that are not explicitly mentioned in the client's request but are necessary to complete the product.
 
+## Estimating the work
+TBD
+
 ## Making sure you don't forget something
 Before the end of the session, make sure you run through these questions and adjust your estimates based on your answers:
 
@@ -36,6 +39,9 @@ Before the end of the session, make sure you run through these questions and adj
 * Is there any data migration that you should include in your estimate?
 * Are there any tools you will have to include as part of your costs?
 * Is there any warranty period that should be planned and estimated?
+
+## Putting everything together
+TBD
 
 ## What to do if estimates are too high?
 More often than not, your estimates might come too high, and you will have to find ways to cut them down. Here are some suggestions to keep in mind:
