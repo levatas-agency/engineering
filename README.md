@@ -12,3 +12,9 @@ We use these principles and guides to ensure our performance upholds our standar
 * [Acknowledgements](acknowledgements.md)
 
 Also, [here is a list of resources](resources.md) we want to make sure all our team has access to (and read and watch, of course).
+
+More on the technical side, we also keep the following resources that specify how we approach different problems related to our daily work:
+
+* [Estimating Projects](estimating-projects.md)
+* [Website Development and Deployment Checklist](websites-checklist.md)
+
