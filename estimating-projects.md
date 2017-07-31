@@ -1,4 +1,4 @@
-# Estimating projects
+# Estimating Projects
 Accurately estimating software development tasks is very hard. Humans are notoriously bad at predicting things they don't 
 fully understand, hence the difficulty of properly estimating development work. 
 
