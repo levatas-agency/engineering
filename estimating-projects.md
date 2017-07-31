@@ -2,8 +2,16 @@
 Accurately estimating software development tasks is very hard. Humans are notoriously bad at predicting things they don't 
 fully understand, so we decided to put together a list of suggestions to help improve the quality of the estimates we put every day for our clients. 
 
-## Refining the list of requirements
+## What are we trying to build?
+Before we are ready to estimate a project, we need to understand exactly what are we building. This doesn't mean that we need to know every single detail (actually, quite the opposite), but we do need a general idea with enough details to put together a compelling estimate:
 
+* Avoid giving off-the-cuff estimates before you understand the full scope of the project. You are very likely to misestimate the effort and anchor your team to a number that has no substance behind it.
+
+* Spend as much time as possible trying to understand the requirements of the project. Write everything down and make sure you have a good handle on the full scope before starting the estimate.
+
+* Make sure the scope has enough details to allow a project manager to drive the project comfortably. Requirements with too many details won't give the team enough room to maneuver, and requirements with not enough details will be tough to estimate. 
+
+## Refining the list of requirements
 After you have the list of requirements needed to build the product, spend some time following this list:
 
 * Identify the essential features needed to make the product serve its purpose.
@@ -15,7 +23,6 @@ adjust the scope of the product.
 * Identify hidden features that are not explicitly mentioned in the client's request but are necessary to complete the product.
 
 ## Making sure you don't forget something
-
 Before the end of the session, make sure you run through these questions and adjust your estimates based on your answers:
 
 * How long will it take you to clarify all the requirements, document them, and prepare the backlog of the project?
@@ -31,7 +38,6 @@ Before the end of the session, make sure you run through these questions and adj
 * Is there any warranty period that should be planned and estimated?
 
 ## What to do if estimates are too high?
-
 More often than not, your estimates might come too high, and you will have to find ways to cut them down. Here are some suggestions to keep in mind:
 
 * Do not simply cut the numbers down without thinking about the consequences.
