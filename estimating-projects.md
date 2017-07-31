@@ -1,9 +1,6 @@
 # Estimating Projects
 Accurately estimating software development tasks is very hard. Humans are notoriously bad at predicting things they don't 
-fully understand, hence the difficulty of properly estimating development work. 
-
-What follows is a list of suggestions that you should incorporate to your estimation sessions. By following them, you will 
-greatly improve the quality of your estimates.
+fully understand, so we decided to put together a list of suggestions to help improve the quality of the estimates we put every day for our clients. 
 
 ## Refining the list of requirements
 
