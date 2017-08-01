@@ -59,7 +59,7 @@ Estimates should include all the necessary software development activities, not 
 
 * Do you need to schedule any time to think about performance, scalability and the security of the project?
 
-* Do you need to consider any time related to dependencies with other teams and the integration of their work.
+* Do you need to consider any time related to dependencies with other teams and the integration of their work?
 
 * Are you planning enough time to deploy the product?
 
