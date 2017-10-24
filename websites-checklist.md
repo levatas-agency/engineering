@@ -8,7 +8,8 @@ Here is the list of activities that apply to the development and deployment of w
 1. Files such as JavaScript, HTML, and CSS are minified to reduce file size. See [Minify Resources](https://developers.google.com/speed/docs/insights/MinifyResources).
 1. Image files are properly optimized. See [
 Optimize Images](https://developers.google.com/speed/docs/insights/OptimizeImages).
-1. Compression is enabled for all HTTP requests. See [Enable Compression](https://developers.google.com/speed/docs/insights/EnableCompression).
+1. Compression is enabled for all HTTP requests, including for TTF and EOT formats. See [Enable Compression](https://developers.google.com/speed/docs/insights/EnableCompression).
+1. Web Fonts are optimized. woff2 and woff fonts are defined first, as these are compressed. See [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization).
 1. A server caching strategy covering the creation and cache of dynamic pages is in place. See [Improve Server Response Time](https://developers.google.com/speed/docs/insights/Server).
 1. A browser caching strategy is in place. See [Leverage Browser Caching](https://developers.google.com/speed/docs/insights/LeverageBrowserCaching).
 1. General websites analytics are in place to report on general visitor numbers, in-page engagement, and behavior taken on the site. See [Set up Analytics tracking](https://support.google.com/analytics/answer/1008080?hl=en).
