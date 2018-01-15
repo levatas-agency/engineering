@@ -12,7 +12,7 @@ Finally, everything here can use the experience and ideas that every department 
 
 ### Table of Contents
 
-* Where are the people hanging out?
+* [Where are the people hanging out?](#where-are-the-people-hanging-out)
 * Stop speaking in bullets
 * We need to talk more about ourselves
 * We need multi-dimensional interviews
