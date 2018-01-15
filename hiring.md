@@ -20,7 +20,7 @@ Finally, everything here can use the experience and ideas that every department 
 
 ### Where are the people hanging out?
 
-I can tell you where they aren't: in our backyard waiting for our call. 
+_I can tell you where they aren't: in our backyard waiting for our call._ 
 
 We have to work very hard to find the people that we want to hire. We can't just expect that they will come to us whenever we open a new position. Recruiters help to find talent, but their motives are different than ours, and the cost is significant. We need a different strategy, a primary one, and then supplement it with job boards and recruiter firms.
 
@@ -36,7 +36,7 @@ Here are a few ways we will start getting closer to the talent we need:
  
 ### Stop speaking in bullets
 
-We aren't who we say we are, but what we do.
+_We aren't who we say we are, but what we do._
 
 We like to think and speak about our culture, but then every job posting selling our company is written in bullet points, just like every other boring large corporation out there.
 
@@ -48,7 +48,7 @@ People can't connect with a checklist. They want to hear our story and the reaso
 
 ### Let's talk more about ourselves
 
-It isn't you who is desperately trying to work for me. It's me who wants this to happen.
+_It isn't you who is desperately trying to work for me. It's me who wants this to happen._
 
 We need to show off a little bit more. We have created a fantastic culture with excellent benefits. People can't believe what we have when we show them, but we fail to do that consistently — especially when recruiting.
 
@@ -58,7 +58,7 @@ We need to show off a little bit more. We have created a fantastic culture with 
 
 ### Multi-dimensional interviews
 
-90 minutes of conversation can't possibly be enough to start a successful long-term relationship.
+_90 minutes of conversation can't possibly be enough to start a successful long-term relationship._
 
 Levatas is way more than the work we do every day, but we put most emphasis on it when interviewing candidates — and sometimes, that's all we care. False positives are very expensive, so we want to avoid them as much as we can.
 
@@ -70,7 +70,7 @@ Levatas is way more than the work we do every day, but we put most emphasis on i
 
 ### Interviews don't end when the candidate starts
 
-Getting people to show up is nothing compared to getting them to stay.
+_Getting people to show up is nothing compared to getting them to stay._
 
 A good onboarding process is a perfect epilogue to a great interview. We have done a lot of work to revamp our onboarding process, but we can't start bragging about it yet. The first few days at a new job set the tone for what's about to come, and we can do more to make people feel they made the right decision:
 
