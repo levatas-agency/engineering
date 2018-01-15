@@ -43,7 +43,7 @@ We like to think and speak about our culture, but then every job posting selling
 
 People can't connect with a checklist. They want to hear our story and the reason they should drop every other opportunity and come work for us. Just like we appreciate thoughtful letters and resumes, this is our chance to impress.
 
-* Let's dedicate some time and replace our corporate-like job postings with a thoughtful write-up that explains the position we are trying to fill. [Here is an example](https://github.com/levatas-agency/engineering/blob/master/hiring/job-posting.md) of the new format.
+* Let's dedicate some time and replace our corporate-like job postings with a thoughtful write-up that explains the position we are trying to fill. [Here is an example](https://github.com/levatas-agency/engineering/blob/master/hiring/job-posting.md) that I started for our next hiring opportunity. It is not finished, but it shows the idea that I'd like to exploit.
 
 * Let's make sure the questions we ask have meaning to us and aren't just the same questions corporate America has been asking for the last decade. 
 
