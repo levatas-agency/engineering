@@ -13,9 +13,9 @@ Finally, everything here can use the experience and ideas that every department 
 ### Table of Contents
 
 * [Where are the people hanging out?](#where-are-the-people-hanging-out)
-* Stop speaking in bullets
-* We need to talk more about ourselves
-* We need multi-dimensional interviews
+* [Stop speaking in bullets](#stop-speaking-in-bullets)
+* [Let's talk more about ourselves](#lets-talk-more-about-ourselves)
+* [Multi-dimensional interviews](#multi-dimensional-interviews)
 * [Interviews don't end when the candidate starts](#some-markdown-heading)
 
 ### Where are the people hanging out?
@@ -46,7 +46,7 @@ People can't connect with a checklist. They want to hear our story and the reaso
 
 * Let's make sure the questions we ask have meaning to us and aren't just the same questions corporate America has been asking for the last decade.
 
-### We need to talk more about ourselves
+### Let's talk more about ourselves
 
 It isn't you who is desperately trying to work for me. It's me who wants this to happen.
 
@@ -56,7 +56,7 @@ We need to show off a little bit more. We have created a fantastic culture with 
 
 * Revamp our Careers page on our website. We want to tell our story, but we also want to be specific to new candidates looking for an opportunity. We want this space to be all we need people to see to fall in love with us.
 
-### We need multi-dimensional interviews
+### Multi-dimensional interviews
 
 90 minutes of conversation can't possibly be enough to start a successful long-term relationship.
 
@@ -68,7 +68,7 @@ Levatas is way more than the work we do every day, but we put most emphasis on i
 
 * Have more than one person interviewing the candidate. This is the best way to keep your biases in check. The more help you get from others on the team, the better decision you'll make at the end.
 
-(#some-markdown-heading) ### Interviews don't end when the candidate starts
+### Interviews don't end when the candidate starts
 
 Getting people to show up is nothing compared to getting them to stay.
 
