@@ -20,6 +20,11 @@ __Core Competencies__
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
+__Compensation__
+* 25%: $58,931	
+* 50%: $68,743	
+* 75%: $79,543
+
 ## Software Engineer II
 3+ years of experience | 70% Executing - 30% Learning 
 
