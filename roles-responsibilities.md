@@ -39,10 +39,10 @@ __Responsibilities__
 * Participate in the analysis and estimation process to derive system requirements, user stories, and other functional and non-functional requirement documents.
 * Comply with processes, project plans, best practices, and industry standards.
 
-## Senior Software Engineer
-5+ years of experience | 60% Executing - 30% Coaching - 10% Learning
+## Software Engineer IV
+8+ years of experience | 60% Executing - 30% Coaching - 10% Learning
 
-The Senior Software Engineer role at Levatas is for individuals with at least five years of experience as a software engineer. In this role, you will divide your time between learning, executing, and project leadership. You will have a demonstrated mastery of software engineering principles, and a broad knowledge of technologies. A Senior Software Engineer will be comfortable with the full stack of technology solutions required by Levatas. As a technical lead on projects, the team and our clients will look to you for architecting the system, considering third-party integrations, scalability, device compatibility, and much more. The buck stops with you as the designer and decision maker for the technical implementation of your projects.
+The Software Engineer IV role at Levatas is for individuals with at least eight years of experience as a software engineer. In this role, you will divide your time between learning, executing, and project leadership. You will have a demonstrated mastery of software engineering principles, and a broad knowledge of technologies. A Software Engineer IV will be comfortable with the full stack of technology solutions required by Levatas. As a technical lead on projects, the team and our clients will look to you for architecting the system, considering third-party integrations, scalability, device compatibility, and much more. The buck stops with you as the designer and decision maker for the technical implementation of your projects.
 
 __Responsibilities__
 * Have a strong commitment to meet deadlines.
