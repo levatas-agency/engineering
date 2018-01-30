@@ -12,6 +12,14 @@ __Responsibilities__
 * Collaborate with other team members to design and implement features.
 * Get familiar with Levatas processes, tools, and standards.
 
+__Core Competencies__
+* Naturally curious and a lifelong learner
+* Continually brings fresh ideas to the table
+* Strong organizational skills
+* Good grasping power and attention to detail
+* Entrepreneurship, intrinsic motivation to create something
+* Strong experimentation skills
+
 ## Software Engineer II
 3+ years of experience | 70% Executing - 30% Learning 
 
@@ -23,6 +31,15 @@ __Responsibilities__
 * Demonstrate ability to deliver high-quality designed, testable, and efficient code.
 * Collaborate with other team members to design and implement features.
 * Comply with processes, project plans, best practices, and industry standards.
+
+__Core Competencies__
+* Naturally curious and a lifelong learner
+* Continually brings fresh ideas to the table
+* Strong organizational skills
+* Ability to decompose, synthetize and solve problems
+* Good grasping power and attention to detail
+* Entrepreneurship, intrinsic motivation to create something
+* Strong experimentation skills
 
 ## Software Engineer III
 5+ years of experience | 80% Executing - 10% Coaching - 10% Learning
@@ -37,6 +54,15 @@ __Responsibilities__
 * Demonstrate ability to deliver high-quality designed, testable, and efficient code.
 * Participate in the analysis and estimation process to derive system requirements, user stories, and other functional and non-functional requirement documents.
 * Comply with processes, project plans, best practices, and industry standards.
+
+__Core Competencies__
+* Strong organizational skills
+* Ability to decompose, synthetize and solve complex problems
+* Good communication skills
+* Strong analytical skills
+* Good grasping power and attention to detail
+* Good mentoring, coaching, and training skills
+* Strong experimentation skills.
 
 ## Software Engineer IV
 8+ years of experience | 70% Executing - 20% Coaching - 10% Learning
@@ -58,18 +84,13 @@ __Responsibilities__
 * Comply with processes, project plans, best practices, and industry standards.
 * Demonstrate excellent communication skills.
 
-## Engineering Manager
-8+ years of experience | 30% Executing - 60% Managing - 10% Learning
-
-The Engineering Manager role at Levatas is for individuals with at least eight years of experience. This role is for those who have demonstrated superior mastery of software engineering principles, and the entire stack of technology solutions required by Levatas. These individuals will have a broad base of technologies that they have mastered and an even larger set that they understand. But beyond technical skills, Engineering Managers are team members who have demonstrated a significant aptitude for leadership within the team. While you will still spend some of your time learning, and executing, you will spend a considerable amount of your day in team management, career development, coaching, and motivation.
-
-__Responsibilities__
-* Demonstrate a strong mastery of software engineering principles and theory covering the full development stack used by Levatas.
-* Constantly look for ways to make your team look better by finding places where they are struggling and supporting them.
-* Be the visionary for your team, demonstrating an ability to connect what matters to them to what matters to Levatas.
-* Constantly look for ways to motivate, encourage, and coach those around you, increasing team happiness and efficiency.
-* Constantly find ways to delegate what you are good at, train others, and further extend your area of influence.
-* Recruit new team members and assign, direct, and evaluate their work.
-* Help develop and implement policies, standards and procedures for the engineering and technical work performed at Levatas.
-* Demonstrate excellent communication skills.
-
+__Core Competencies__
+* Strong leadership qualities
+* Ability to decompose, synthetize and solve complex problems
+* Strong communication skills
+* Good persuasion, negotiation, consensus building, and conflict resolution skills
+* Strong analytical skills
+* Strong decision making skills
+* Good grasping power and attention to detail
+* Good mentoring, coaching, and training skills
+* Strong organizational skills
