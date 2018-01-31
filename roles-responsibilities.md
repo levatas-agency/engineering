@@ -17,8 +17,8 @@ The Software Engineer I role provides an opportunity for individuals to gain val
 * Continually brings fresh ideas to the table
 * Strong organizational skills
 * Great attention to detail
-* Ability to decompose, synthetize and solve complex problems
-* Entrepreneurship, intrinsic motivation to create something
+* Ability to deconstruct, synthetize and solve complex problems
+* Entrepreneurship and an intrinsic motivation to create something
 * Ability to try new things, learn from mistakes, and keep making progress
 
 ### Total Compensation
@@ -44,9 +44,9 @@ The Software Engineer II role is a position for individuals who have demonstrate
 * Naturally curious and a lifelong learner
 * Continually brings fresh ideas to the table
 * Strong organizational skills
-* Ability to decompose, synthetize and solve problems
+* Ability to deconstruct, synthetize and solve complex problems
+* Entrepreneurship and an intrinsic motivation to create something
 * Great attention to detail
-* Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
 ### Total Compensation
@@ -72,7 +72,8 @@ The Software Engineer III role at levatas is a position for individuals who have
 
 ### Core Competencies
 * Strong organizational skills
-* Ability to decompose, synthetize and solve complex problems
+* Ability to deconstruct, synthetize and solve complex problems
+* Entrepreneurship and an intrinsic motivation to create something
 * Good communication skills
 * Strong analytical skills
 * Great attention to detail
@@ -108,7 +109,8 @@ The Software Engineer IV role at Levatas is for individuals with at least eight 
 
 ### Core Competencies
 * Strong leadership qualities
-* Ability to decompose, synthetize and solve complex problems
+* Ability to deconstruct, synthetize and solve complex problems
+* Entrepreneurship and an intrinsic motivation to create something
 * Strong communication skills
 * Good persuasion, negotiation, consensus building, and conflict resolution skills
 * Strong analytical skills
