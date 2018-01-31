@@ -21,9 +21,9 @@ __Core Competencies__
 * Strong experimentation skills
 
 __Compensation__
-* 25%: $58,931	
-* 50%: $68,743	
-* 75%: $79,543
+* 25%: $59,000
+* 50%: $69,000	
+* 75%: $80,000
 
 ## Software Engineer II
 3+ years of experience | 70% Executing - 30% Learning 
@@ -45,6 +45,11 @@ __Core Competencies__
 * Good grasping power and attention to detail
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
+
+__Compensation__
+* 25%: $66,000	
+* 50%: $77,000	
+* 75%: $89,000
 
 ## Software Engineer III
 5+ years of experience | 80% Executing - 10% Coaching - 10% Learning
@@ -68,6 +73,11 @@ __Core Competencies__
 * Good grasping power and attention to detail
 * Good mentoring, coaching, and training skills
 * Strong experimentation skills.
+
+__Compensation__
+* 25%: $85,000
+* 50%: $98,000	
+* 75%: $111,000
 
 ## Software Engineer IV
 8+ years of experience | 70% Executing - 20% Coaching - 10% Learning
@@ -99,3 +109,8 @@ __Core Competencies__
 * Good grasping power and attention to detail
 * Good mentoring, coaching, and training skills
 * Strong organizational skills
+
+__Compensation__
+* 25%: $90,000
+* 50%: $103,000	
+* 75%: $118,000
