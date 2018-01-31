@@ -9,16 +9,17 @@ The Software Engineer I role provides an opportunity for individuals to gain val
 
 ### Responsibilities
 * Continuously learn and improve skills.
-* Collaborate with other team members to design and implement features.
+* Collaborate with other team members to design, implement, and maintain the functionality of new and existing projects.
 * Get familiar with Levatas processes, tools, and standards.
 
 ### Core Competencies
 * Naturally curious and a lifelong learner
 * Continually brings fresh ideas to the table
 * Strong organizational skills
-* Good grasping power and attention to detail
+* Great attention to detail
+* Ability to decompose, synthetize and solve complex problems
 * Entrepreneurship, intrinsic motivation to create something
-* Strong experimentation skills
+* Ability to try new things, learn from mistakes, and keep making progress
 
 ### Total Compensation
 The market value for this position was collected from PayScale.com, in the Palm Beach, Florida labor market. Job Title: Software Engineer 1.
@@ -44,7 +45,7 @@ The Software Engineer II role is a position for individuals who have demonstrate
 * Continually brings fresh ideas to the table
 * Strong organizational skills
 * Ability to decompose, synthetize and solve problems
-* Good grasping power and attention to detail
+* Great attention to detail
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
@@ -74,7 +75,7 @@ The Software Engineer III role at levatas is a position for individuals who have
 * Ability to decompose, synthetize and solve complex problems
 * Good communication skills
 * Strong analytical skills
-* Good grasping power and attention to detail
+* Great attention to detail
 * Good mentoring, coaching, and training skills
 * Strong experimentation skills.
 
@@ -112,7 +113,7 @@ The Software Engineer IV role at Levatas is for individuals with at least eight 
 * Good persuasion, negotiation, consensus building, and conflict resolution skills
 * Strong analytical skills
 * Strong decision making skills
-* Good grasping power and attention to detail
+* Great attention to detail
 * Good mentoring, coaching, and training skills
 * Strong organizational skills
 
