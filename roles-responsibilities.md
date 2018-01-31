@@ -1,6 +1,6 @@
 # Roles and Responsibilities
 
-The Engineering team at Levatas is organized across five different positions:
+The Engineering team at Levatas is organized across four different positions:
 
 ## Software Engineer I
 0 - 3 years of experience | 60% Executing - 40% Learning 
