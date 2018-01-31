@@ -7,12 +7,12 @@ The Engineering team at Levatas is organized across five different positions:
 
 The Software Engineer I role provides an opportunity for individuals to gain valuable industry experience while primarily focusing on learning while supporting Levatas’ engineering team. As a Software Engineer I, you will be responsible for working on client deliverables and projects while spending a significant amount of your time learning and honing your skills.
 
-__Responsibilities__
+### Responsibilities
 * Continuously learn and improve skills.
 * Collaborate with other team members to design and implement features.
 * Get familiar with Levatas processes, tools, and standards.
 
-__Core Competencies__
+### Core Competencies
 * Naturally curious and a lifelong learner
 * Continually brings fresh ideas to the table
 * Strong organizational skills
@@ -20,9 +20,8 @@ __Core Competencies__
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
-__Total Compensation__
-
-Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 1.
+### Total Compensation
+The market value for this position was collected from PayScale.com, in the Palm Beach, Florida labor market. Job Title: Software Engineer 1.
 
 * 25%: $59,000
 * 50%: $69,000	
@@ -33,14 +32,14 @@ Market value for this position was collected from PayScale.com. Palm Beach, Flor
 
 The Software Engineer II role is a position for individuals who have demonstrated an excellent reputation for their work ethic, reliability, and experience working with one of more technologies from the Levatas stack. As a Software Engineer II, you will be responsible for working on client deliverables and projects in a cross-disciplinary team environment, while learning and honing your skills and specializations. 
 
-__Responsibilities__
+### Responsibilities
 * Continuously learn and improve skills.
 * Demonstrate good expertise in one or more technologies.
 * Demonstrate ability to deliver high-quality designed, testable, and efficient code.
 * Collaborate with other team members to design and implement features.
 * Comply with processes, project plans, best practices, and industry standards.
 
-__Core Competencies__
+### Core Competencies
 * Naturally curious and a lifelong learner
 * Continually brings fresh ideas to the table
 * Strong organizational skills
@@ -49,9 +48,8 @@ __Core Competencies__
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
-__Total Compensation__
-
-Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 2.
+### Total Compensation
+The market value for this position was collected from PayScale.com, in the Palm Beach, Florida labor market. Job Title: Software Engineer 2.
 
 * 25%: $66,000	
 * 50%: $77,000	
@@ -62,7 +60,7 @@ Market value for this position was collected from PayScale.com. Palm Beach, Flor
 
 The Software Engineer III role at levatas is a position for individuals who have demonstrated an excellent reputation for their work ethic, reliability, and mastery in one or more specializations. As a Software Engineer III, your primary focus will be working on client deliverables, but you will continue to spend a significant portion of your time learning and helping those around you become better.
 
-__Responsibilities__
+### Responsibilities
 * Continuously learn and improve skills.
 * Have a strong commitment to meet deadlines.
 * Demonstrate a broad knowledge of software engineering principles and theory covering the full development stack used by Levatas.
@@ -71,7 +69,7 @@ __Responsibilities__
 * Participate in the analysis and estimation process to derive system requirements, user stories, and other functional and non-functional requirement documents.
 * Comply with processes, project plans, best practices, and industry standards.
 
-__Core Competencies__
+### Core Competencies
 * Strong organizational skills
 * Ability to decompose, synthetize and solve complex problems
 * Good communication skills
@@ -80,9 +78,8 @@ __Core Competencies__
 * Good mentoring, coaching, and training skills
 * Strong experimentation skills.
 
-__Total Compensation__
-
-Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 3.
+### Total Compensation
+The market value for this position was collected from PayScale.com, in the Palm Beach, Florida labor market. Job Title: Software Engineer 3.
 
 * 25%: $85,000
 * 50%: $98,000	
@@ -93,7 +90,7 @@ Market value for this position was collected from PayScale.com. Palm Beach, Flor
 
 The Software Engineer IV role at Levatas is for individuals with at least eight years of experience as a software engineer. In this role, you will divide your time between learning, executing, and project leadership. You will have a demonstrated mastery of software engineering principles, and a broad knowledge of technologies. A Software Engineer IV will be comfortable with the full stack of technology solutions required by Levatas. As a technical lead on projects, the team and our clients will look to you for architecting the system, considering third-party integrations, scalability, device compatibility, and much more. The buck stops with you as the designer and decision maker for the technical implementation of your projects.
 
-__Responsibilities__
+### Responsibilities
 * Have a strong commitment to meet deadlines.
 * Demonstrate a strong mastery of principles and theory covering the full development stack used by Levatas.
 * Constantly find ways to delegate what you are good at, train others, and further extend your area of influence.
@@ -108,7 +105,7 @@ __Responsibilities__
 * Comply with processes, project plans, best practices, and industry standards.
 * Demonstrate excellent communication skills.
 
-__Core Competencies__
+### Core Competencies
 * Strong leadership qualities
 * Ability to decompose, synthetize and solve complex problems
 * Strong communication skills
@@ -119,9 +116,8 @@ __Core Competencies__
 * Good mentoring, coaching, and training skills
 * Strong organizational skills
 
-__Total Compensation__
-
-Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 4.
+### Total Compensation
+The market value for this position was collected from PayScale.com, in the Palm Beach, Florida labor market. Job Title: Software Engineer 4.
 
 * 25%: $90,000
 * 50%: $103,000	
