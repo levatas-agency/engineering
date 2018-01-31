@@ -20,7 +20,10 @@ __Core Competencies__
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
-__Compensation__
+__Total Compensation__
+
+Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 1.
+
 * 25%: $59,000
 * 50%: $69,000	
 * 75%: $80,000
@@ -46,7 +49,10 @@ __Core Competencies__
 * Entrepreneurship, intrinsic motivation to create something
 * Strong experimentation skills
 
-__Compensation__
+__Total Compensation__
+
+Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 2.
+
 * 25%: $66,000	
 * 50%: $77,000	
 * 75%: $89,000
@@ -74,7 +80,10 @@ __Core Competencies__
 * Good mentoring, coaching, and training skills
 * Strong experimentation skills.
 
-__Compensation__
+__Total Compensation__
+
+Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 3.
+
 * 25%: $85,000
 * 50%: $98,000	
 * 75%: $111,000
@@ -110,7 +119,10 @@ __Core Competencies__
 * Good mentoring, coaching, and training skills
 * Strong organizational skills
 
-__Compensation__
+__Total Compensation__
+
+Market value for this position was collected from PayScale.com. Palm Beach, Florida. Job Title: Software Engineer 4.
+
 * 25%: $90,000
 * 50%: $103,000	
 * 75%: $118,000
