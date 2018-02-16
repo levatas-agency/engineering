@@ -17,7 +17,7 @@ _Last updated on 2/16/2018_
 * SQL Server, MySQL, MongoDB
 * [_stretch_] EJB, Python, Oracle
 
-### Content Management System
+### Content Management Systems
 * WordPress
 * [_stretch_] Adobe Experience Manager
 
