@@ -6,7 +6,7 @@ _Last updated on 2/16/2018_
 
 ### Front-End Development
 * HTML/CSS/JavaScript
-* Angular (1 or 2), React, Jasmine
+* Angular (1 and 2), React, Jasmine
 * Bootstrap, Responsive Web
 * [_stretch_] Vue, Ember
 
